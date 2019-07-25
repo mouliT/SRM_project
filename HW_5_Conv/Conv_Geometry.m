@@ -3,7 +3,7 @@
 clear all;
 
 %%
-%%%%%%%%%%%%%%%%%%%%%%% Machine dimensions
+%%%%%%%%%%%%%%%%%%%%%%% Machine dimensions as per the R_Krishnan text 
 P_d = 10000;                       % Developed Power in Watts
 I_max =  20;                       % Maximum amperes allowed from the supply or the source
 W_m = 523.59;                      % Base speed in rad/s 
